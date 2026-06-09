@@ -8,7 +8,6 @@ public class Cachorro extends Lobo {
     public void emitirSom() {
         // TODO Auto-generated method stub
         System.out.println("Au Au Au");
-
     }
 
     public void reagir(String frase) {

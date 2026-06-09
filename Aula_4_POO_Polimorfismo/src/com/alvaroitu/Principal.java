@@ -13,6 +13,8 @@ public class Principal {
         animal.alimentar();
         animal.emitirSom();
 
+
+
         Mamifero mamifero = new Mamifero();
 
         mamifero.locomover();

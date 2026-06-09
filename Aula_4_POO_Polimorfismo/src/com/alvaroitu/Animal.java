@@ -18,9 +18,7 @@ public class Animal implements Acoes {
     }
 
     @Override
-    public void locomover() {
-        System.out.println("locomover");
-    }
+    public void locomover() { System.out.println("locomover"); }
     @Override
     public void alimentar() {
         System.out.println("alimentar");
